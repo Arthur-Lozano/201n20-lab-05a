@@ -1,3 +1,3 @@
 # 201n20-lab-05a
 
-### Worked with (Thomas Arnone)
+### Worked with (Thomas Arnone), Colton Christensen
